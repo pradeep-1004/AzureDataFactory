@@ -1,0 +1,9 @@
+{
+	"name": "pradeepukdfact",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b145a72-d4d4-45d5-8958-b8e8f1ba5e49",
+		"tenantId": "c3b463cc-c23f-4e54-bdc0-add8e54eb7f1"
+	}
+}
