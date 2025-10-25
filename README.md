@@ -1,5 +1,7 @@
 # AzureDataFactory
 FOR REFERENCE
+
+
 1.notes:
 ![IMG_3674](https://github.com/user-attachments/assets/ea661a5b-8a42-41cd-8e5c-c61bbf8e504e)
 
